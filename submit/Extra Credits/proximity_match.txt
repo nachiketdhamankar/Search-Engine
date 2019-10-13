@@ -1,4 +1,0 @@
-Namespace(bestmatch=False, debug=False, exactmatch=False, proximitymatch=3, query='parallel methods')
-parallel
-methods
-[('CACM-1601', 1), ('CACM-0950', 1), ('CACM-1828', 0), ('CACM-2195', 0), ('CACM-2685', 0), ('CACM-2851', 0)]

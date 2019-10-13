@@ -1,1 +1,0 @@
-secant modification of newton method cacm august 1958 jeeves t a ca580802 jb march 22 1978 9:03 pm

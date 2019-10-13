@@ -1,9 +1,0 @@
-{
-  "Q1": "code optim for space effici ", 
-  "Q0": "portabl oper system ", 
-  "Q3": "distribut comput structur and algorithm ", 
-  "Q2": "parallel algorithm ", 
-  "Q5": "perform evalu and model of comput system ", 
-  "Q4": "appli stochast process ", 
-  "Q6": "parallel processor in inform retriev "
-}
